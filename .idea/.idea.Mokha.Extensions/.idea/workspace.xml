@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f43127e1-a7bf-4e75-8d3e-1bc348473ac3" name="Default Changelist" comment="Init Project 2">
+      <change afterPath="$PROJECT_DIR$/Mokha.Extensions/Extensions/DateTimeExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mokha.Extensions/Extensions/EmailsExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mokha.Extensions/Extensions/GuidExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mokha.Extensions/Extensions/ListsGuidExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mokha.Extensions/Extensions/MoneyExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mokha.Extensions/Extensions/NumbersExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mokha.Extensions/Extensions/PhoneExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mokha.Extensions/Extensions/SizeExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mokha.Extensions/Extensions/StringsExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mokha.Extensions/Extensions/UrlsExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mokha.Extensions/Class1.cs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/Guid.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/GuidExtensions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/PhoneExtensions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/EmailsExtensions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/UrlsExtensions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/ListsExtenstions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/ListsGuidExtensions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/NumbersExtensions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/MonyExtensions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/MoneyExtensions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/StringdExtensions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/StringsExtensions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/SizeExtensions.cs" />
+      <option value="$PROJECT_DIR$/Mokha.Extensions/Extensions/DateTimeExtensions.cs" />
+    </changedPaths>
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="ecom-admin" />
+    <option name="namespace" value="anis-balance-outside" />
+  </component>
+  <component name="ProjectId" id="1vnsNNrjZgmkurCm9ejWdRFwBDJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f43127e1-a7bf-4e75-8d3e-1bc348473ac3" name="Default Changelist" comment="" />
+      <created>1627209150340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627209150340</updated>
+      <workItem from="1627209163183" duration="1588000" />
+    </task>
+    <task id="LOCAL-00001" summary="Init Project">
+      <created>1627209183358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627209183358</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init Project 2">
+      <created>1627209192816</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627209192816</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Init Project" />
+    <MESSAGE value="Init Project 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init Project 2" />
+  </component>
+</project>
